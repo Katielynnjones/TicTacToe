@@ -1,0 +1,23 @@
+.title{
+    font-family:'Courier New', Courier, monospace;
+    background-color: beige;
+}
+
+.container{
+    margin: 15px;
+    color: brown;
+}
+
+.links{
+    color: grey;
+    text-decoration: none;
+    display: table-cell;
+}
+
+.links:hover{
+    color: hotpink;
+}
+
+.links:visited{
+    color: purple;
+}
